@@ -1,4 +1,4 @@
-# ETH Inscribe
+# Fair INS-20
 灵感来源 [ins-20](0x8c578A6e31Fc94B1Facd58202be53a8385BACbf7)，在此基础上做了修改，主要是加上了一个挖矿算法来实现公平分发。
 
 ## Foundry
