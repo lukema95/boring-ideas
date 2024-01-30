@@ -1,0 +1,3 @@
+[submodule "omnichain-nft/lib/openzeppelin-contracts"]
+	path = omnichain-nft/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
